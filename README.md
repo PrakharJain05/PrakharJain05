@@ -1,6 +1,6 @@
 ### Hi there, I'm Prakhar Jain 👋
 
-- 🌱 I’m currently learning everything(but mainly linux right now!!)
+- 🌱 I’m currently learning everything!!
 - 👯 I’m looking for opportunities in Fronted, Backend or FullStack
 - ⚡ Fun fact: rather then watching sports I'm more into playing.
 
