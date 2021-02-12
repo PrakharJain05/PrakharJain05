@@ -1,7 +1,7 @@
 ### Hi there, I'm Prakhar Jain 👋
 
 - 🌱 I’m currently learning everything!!
-- 👯 I’m looking for opportunities in Fronted, Backend or FullStack
+- 👯 I’m looking for opportunities in React and Node Environmnet.
 - ⚡ Fun fact: rather then watching sports I'm more into playing.
 
 ### Connect with me:
