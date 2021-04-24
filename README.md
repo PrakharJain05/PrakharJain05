@@ -27,8 +27,6 @@
 <br />
 <br />
 
-[![HitCount](http://hits.dwyl.com/PrakharJain05/PrakharJain05.svg)](http://hits.dwyl.com/PrakharJain05/PrakharJain05)
-
 [portfolio]: https://portfolio.prakharj05.vercel.app/
 [linkedin]: https://www.linkedin.com/in/prakhar-jain-25313b136/
 [instagram]: https://www.instagram.com/prakhar____jain/
