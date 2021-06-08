@@ -1,14 +1,13 @@
 ### Hi there, I'm Prakhar Jain 👋
 
 - 🌱 I’m currently learning everything!!
-- 👯 I’m looking for opportunities in React and Node Environmnet.
+- 👯 I’m looking for side projects in React and Node Environmnet.
 - ⚡ Fun fact: rather then watching sports I'm more into playing.
 
 ### Connect with me:
 
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -29,4 +28,3 @@
 
 [portfolio]: https://portfolio.prakharj05.vercel.app/
 [linkedin]: https://www.linkedin.com/in/prakhar-jain-25313b136/
-[instagram]: https://www.instagram.com/prakhar____jain/
