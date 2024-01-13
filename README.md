@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything!!
 - 👯 I’m looking for side projects in React and Node Environmnet.
-- ⚡ Fun fact: rather then watching sports I'm more into playing.
+- ⚡ Fact: rather then watching sports I'm more into playing.
 
 ### Connect with me:
 
@@ -26,5 +26,4 @@
 <br />
 <br />
 
-[portfolio]: https://portfolio.prakharj05.vercel.app/
-[linkedin]: https://www.linkedin.com/in/prakhar-jain-25313b136/
+[linkedin]: https://www.linkedin.com/in/prakharjain05/
