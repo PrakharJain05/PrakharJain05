@@ -4,7 +4,7 @@
 - ⚡ Likes to work as a Backend/Fullstack/Principle Engineer
 - ⚡ Interested in Infra/Devops 
 
-Reach me at **prakharj05@gmail.com** or follow me on [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />LinkedIn][linkedin]
+Reach me at **prakharj05@gmail.com** or follow me on [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Tech Stack:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
