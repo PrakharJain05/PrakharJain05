@@ -4,7 +4,7 @@
 - ⚡ Likes to work as a Backend/Fullstack/Principle Engineer
 - ⚡ Interested in Infra/Devops 
 
-#### Mail : [<img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail] 
+#### Mail : [<img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail] prakharj05@gmail.com
 #### Message : [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Tech Stack:
