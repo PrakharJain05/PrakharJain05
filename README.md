@@ -4,7 +4,8 @@
 - ⚡ Likes to work as a Backend/Fullstack/Principle Engineer
 - ⚡ Interested in Infra/Devops 
 
-Mail:  [<img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail] or Message:  [<img  alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Mail: [<img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail] 
+### Message: [<img  alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Tech Stack:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
