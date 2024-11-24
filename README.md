@@ -7,12 +7,12 @@
 Reach me at **prakharj05@gmail.com** or follow me on [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Tech Stack:
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
-<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-<img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
-<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" />
+<img align="left" alt="NodeJS" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
+<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+<img align="left" alt="NextJS" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
+<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
+<img align="left" alt="Kubernetes" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" />
 
 <br />
 <br />
